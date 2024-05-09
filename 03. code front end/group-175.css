@@ -1,0 +1,15 @@
+.group-child389 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 23.69px;
+  border: 2px solid var(--color-purple-100);
+  box-sizing: border-box;
+  width: 88.9px;
+  height: 52px;
+}
+.rectangle-root {
+  width: 100%;
+  position: relative;
+  height: 52px;
+}

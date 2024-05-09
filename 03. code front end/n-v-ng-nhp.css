@@ -1,0 +1,140 @@
+.nv-ng-nhp-child {
+  position: absolute;
+  height: 1.72%;
+  width: 17.87%;
+  top: 4.51%;
+  right: 79.24%;
+  bottom: 93.77%;
+  left: 2.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ti-l-nhn {
+  position: absolute;
+  top: 104px;
+  left: 33.6px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 254px;
+  height: 48px;
+}
+.nv-ng-nhp-item {
+  position: absolute;
+  top: 179px;
+  left: 23.6px;
+  border-radius: 23.69px;
+  border: 5.2px solid var(--color-purple-100);
+  box-sizing: border-box;
+  width: 326px;
+  height: 562px;
+}
+.ng-nhp1 {
+  position: absolute;
+  top: 262px;
+  left: 98.6px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-tinos);
+  display: inline-block;
+  width: 166px;
+  height: 37px;
+}
+.mt-khu1,
+.tn-ng-nhp1 {
+  position: absolute;
+  top: 347px;
+  left: 47.6px;
+}
+.mt-khu1 {
+  top: 460px;
+  left: 48.6px;
+}
+.nv-ng-nhp-child1,
+.nv-ng-nhp-inner {
+  position: absolute;
+  top: 386px;
+  left: 48.6px;
+  border-radius: var(--br-2xs-3);
+  background-color: var(--color-darkslategray-500);
+  border: 2.1px solid var(--color-purple-100);
+  box-sizing: border-box;
+  width: 261.6px;
+  height: 42.2px;
+}
+.nv-ng-nhp-child1 {
+  top: 495px;
+  left: 47.6px;
+}
+.mk-toiyeupttk561,
+.vd-nguyentramy241 {
+  position: absolute;
+  top: 400px;
+  left: 65.6px;
+  font-size: var(--font-size-mini-4);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-600);
+}
+.mk-toiyeupttk561 {
+  top: 507px;
+}
+.nv-ng-nhp-child2 {
+  position: absolute;
+  top: 668px;
+  left: 54.6px;
+  border-radius: 14.42px;
+  background-color: var(--color-purple-100);
+  width: 261.6px;
+  height: 47.4px;
+  cursor: pointer;
+}
+.ng-nhp-ngay1 {
+  position: absolute;
+  top: 682px;
+  left: 125.6px;
+  font-family: var(--font-tinos);
+  color: var(--color-white);
+}
+.nv-ng-nhp-child3 {
+  position: absolute;
+  height: 6.48%;
+  width: 27.3%;
+  top: 0.12%;
+  right: 76.59%;
+  bottom: 93.39%;
+  left: -3.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doctor-inner,
+.doctor5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 113px;
+  height: 71px;
+}
+.doctor5 {
+  top: 66px;
+  left: 82.6px;
+}
+.nv-ng-nhp-child4 {
+  position: absolute;
+  top: 6px;
+  left: 309.6px;
+  width: 44px;
+  height: 44px;
+}
+.nv-ng-nhp {
+  width: 100%;
+  position: relative;
+  border-radius: 15.45px;
+  background-color: var(--color-whitesmoke-100);
+  height: 800.4px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-base-5);
+  color: var(--color-purple-100);
+  font-family: var(--font-tiro-gurmukhi);
+}

@@ -1,0 +1,141 @@
+.m-u-child {
+  position: absolute;
+  height: 19.02%;
+  width: 130.41%;
+  top: 40.48%;
+  right: -9.6%;
+  bottom: 40.5%;
+  left: -20.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.m-u-item {
+  position: absolute;
+  top: 533px;
+  left: -19px;
+  background-color: var(--color-purple-100);
+  width: 398px;
+  height: 381px;
+}
+.m-u-inner {
+  position: absolute;
+  top: 674px;
+  left: 37px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.qun-l-nhn {
+  position: absolute;
+  top: 89px;
+  left: 42px;
+}
+.nhn-vin3,
+.qun-l3 {
+  position: absolute;
+  top: 661px;
+  left: 85px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 225px;
+  height: 38px;
+}
+.nhn-vin3 {
+  left: 226px;
+}
+.m-u-child1 {
+  position: absolute;
+  top: 810.7px;
+  left: 100.9px;
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 16.5px;
+  height: 16.5px;
+}
+.i-agree-to {
+  position: absolute;
+  top: 812.8px;
+  left: 124.6px;
+  font-size: var(--font-size-2xs-3);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-whitesmoke-100);
+  text-align: justify;
+}
+.image-removebg-preview-92-1 {
+  position: absolute;
+  top: 209px;
+  left: 28px;
+  width: 327px;
+  height: 216px;
+  object-fit: cover;
+}
+.welcome-to-i-drip,
+.xin-cho1 {
+  position: absolute;
+  top: -22px;
+  left: -152px;
+  width: 57px;
+  height: 1px;
+}
+.xin-cho1 {
+  top: 30px;
+  left: 18px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-tiro-kannada);
+  display: inline-block;
+  width: 239px;
+  height: 77px;
+}
+.m-u-child2 {
+  position: absolute;
+  top: 365px;
+  left: 128px;
+  width: 3125.2px;
+  height: 776px;
+}
+.doctor-child,
+.doctor3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 113px;
+  height: 71px;
+}
+.doctor3 {
+  top: 527px;
+  left: 33px;
+}
+.group-child147,
+.group-child148 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 99px;
+  cursor: pointer;
+}
+.group-child148 {
+  left: 151px;
+  width: 99px;
+}
+.group-parent11 {
+  position: absolute;
+  top: 543px;
+  left: 56px;
+  width: 250px;
+  height: 99px;
+}
+.m-u {
+  width: 100%;
+  position: relative;
+  border-radius: 15.45px;
+  background-color: var(--color-white);
+  height: 800.4px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini-4);
+  color: var(--color-black);
+  font-family: var(--font-tiro-gurmukhi);
+}
